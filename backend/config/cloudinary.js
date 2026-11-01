@@ -1,0 +1,1 @@
+const cloudinary = required('cloudinary').v2;
